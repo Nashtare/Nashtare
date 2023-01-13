@@ -5,7 +5,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/RobinSalen?label=Follow)](https://twitter.com/intent/follow?screen_name=RobinSalen)
 [![Linkedin: Robin Salen](https://img.shields.io/badge/-Robin_Salen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robin-salen/)](https://www.linkedin.com/in/robin-salen/)
-![GitHub followers](https://img.shields.io/github/followers/Nashtare?label=Follow&style=social)
+[![GitHub followers](https://img.shields.io/github/followers/Nashtare?label=Follow&style=social)](https://github.com/Nashtare)
 
 I mostly work on crypto primitives and zero-knowledge proofs for [Toposware](https://www.toposware.com), although I spend some of my free time on open-source projects, like [Winterfell](https://github.com/facebook/winterfell).
 
