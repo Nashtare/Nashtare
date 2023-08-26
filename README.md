@@ -13,14 +13,6 @@ There, I mostly work on crypto primitives and zero-knowledge proofs. On my free 
 
 I'm always open to new collabs, either on a personal side for fun side projects or professionally through my company, so feel free to reach out if you think we could be a good fit!
 
-And below, some stats because that's what Github is all about 😝
-
-<div align="center">
-
-[![Nashtare's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nashtare&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-
-Oh and I also love taking pictures (mostly of nature and/or of Japan 🇯🇵, where I lived for 3 years). Here's a buddy I met in the city of Nara (奈良):
+Oh and I also love taking pictures. Here's a buddy I met in the city of Nara (奈良):
 
 ![DSC_0870](https://user-images.githubusercontent.com/30937548/212495743-130b68d9-2805-46f8-b4d6-e9c6c259ce34.jpg)
