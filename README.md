@@ -9,9 +9,9 @@
 
 My name's Robin and I currently work at [Polygon Labs](https://polygon.technology), following the acquisition of Toposware.
 
-There, I mostly work on crypto primitives and zero-knowledge proofs. On my free time, I also work on some open-source projects I like (still cryptography related), like [Winterfell](https://github.com/facebook/winterfell) or the [Anemoi project](https://github.com/anemoi-hash), though building a zkEVM is time-consuming so I don't get to work on these side projects much these days 🙃
+There, I mostly work on crypto primitives and zero-knowledge proofs. On my free time, I also work on some open-source projects I like (still cryptography related), like [Winterfell](https://github.com/facebook/winterfell) or the [Anemoi project](https://github.com/anemoi-hash), though building performant zkVMs is time-consuming so I don't get to work on these side projects much these days 🙃
 
-I'm always open to new collabs, either on a personal side for fun side projects or professionally through my company, so feel free to reach out if you think we could be a good fit!
+I'm always open to new collabs, either on a personal side for fun side projects or professionally through my company, so feel free to reach out if you think we could be a good fit, especially if you're interested in Elliptic Curve Crypto or zkVMs!
 
 ### Contact me
 
