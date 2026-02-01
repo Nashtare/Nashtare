@@ -21,4 +21,4 @@ If you want to contact me, you can reach out through one of the platforms linked
 
 Oh and I also love taking pictures. Here's a buddy I met in the city of Nara (奈良):
 
-![DSC_0870](https://user-images.githubusercontent.com/30937548/212495743-130b68d9-2805-46f8-b4d6-e9c6c259ce34.jpg)
+![DSC_3305](https://github.com/user-attachments/assets/d9266c0a-9ba9-4a63-8fdd-c9e55117f2be)
