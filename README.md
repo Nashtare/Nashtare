@@ -1,5 +1,5 @@
 <h2>Hi there! 👋</h2>
-<p><em>Current position: Sr Manager, Engineering & Cryptography at <a href="https://miden.xyz//">Miden
+<p><em>Current position: Engineering & Cryptography at <a href="https://miden.xyz//">Miden
 </a>
 </em></p>
 
