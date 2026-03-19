@@ -1,5 +1,5 @@
 <h2>Hi there! 👋</h2>
-<p><em>Current position: Sr Manager, Engineering & Cryptography at <a href="https://polygon.technology/">Polygon Labs
+<p><em>Current position: Sr Manager, Engineering & Cryptography at <a href="https://miden.xyz//">Miden
 </a>
 </em></p>
 
@@ -7,7 +7,7 @@
 [![Linkedin: Robin Salen](https://img.shields.io/badge/-Robin_Salen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robin-salen/)](https://www.linkedin.com/in/robin-salen/)
 [![GitHub followers](https://img.shields.io/github/followers/Nashtare?label=Follow&style=social)](https://github.com/Nashtare)
 
-My name's Robin and I currently work at [Polygon Labs](https://polygon.technology), following the acquisition of Toposware.
+My name's Robin and I currently work at [Miden](https://miden.xyz/), after working at Toposware and Polygon Labs.
 
 There, I mostly work on crypto primitives and zero-knowledge proofs. On my free time, I also work on some open-source projects I like (still cryptography related), including maintaining the [Plonky3 library](https://github.com/Plonky3/Plonky3) and building the [Plonky3 Recursion Machine](https://github.com/Plonky3/Plonky3-Recursion).
 
